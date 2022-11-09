@@ -2656,13 +2656,13 @@ h2.title {
 	color: #f44336;
 }
 .team {
-	margin-top: 80px;
+	margin-top: 60px;
 }
 .team .team-player .title {
-	margin: 30px auto;
+	margin: 25px auto;
 }
 .team .team-player img {
-	max-width: 170px;
+	max-width: 200px;
 }
 .nav-align-center {
 	text-align: center;
